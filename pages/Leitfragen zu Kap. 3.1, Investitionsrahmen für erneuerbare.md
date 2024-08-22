@@ -81,7 +81,6 @@ collapsed:: true
 			- Die #Option_3 und #Option_4, die produktionsunabhängige Zahlungen beinhalten, bieten langfristig die besten Anreize für stabile Investitionen und effizienten Betrieb, obwohl sie zu signifikanten Systemumstellungen führen. Die technischen und administrativen Herausforderungen können durch hochwertige Wettermodelle und standardisierte Messverfahren überwunden werden. Kurzfristig könnte die Implementierung jedoch durch die Komplexität und die notwendige infrastrukturelle und organisatorische Anpassung gebremst werden.
 		-
 - ## #Konsultation_1_4
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld (#Konsultation_1_1, #Konsultation_1_2, #Konsultation_1_3 )

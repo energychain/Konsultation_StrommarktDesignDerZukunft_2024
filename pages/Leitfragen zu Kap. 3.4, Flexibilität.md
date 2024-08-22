@@ -1,12 +1,9 @@
 ## #Konsultation_4_1
-collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
-	  collapsed:: true
 		- Ist die Liste der Aktionsbereiche vollständig und wie bewerten Sie die einzelnen Aktionsbereiche?
 	- Positionierung:
 	  background-color:: green
-	  collapsed:: true
 		- ### Vollständigkeit der Aktionsbereiche
 			- Die Aktionsbereiche, die im Dokument aufgeführt sind, umfassen:
 				- **Preisreaktion ermöglichen – Weg frei machen für dynamische und innovative Tarifmodelle**
@@ -25,7 +22,6 @@ collapsed:: true
 	-
 - **Jenseits der Netzentgeltthemen, deren Einführung und Ausgestaltung in die Zuständigkeit der unabhängigen Regulierungsbehörde fallen:**
 - ## #Konsultation_4_2
-  collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
 		- Welche konkreten Flexibilitätshemmnisse auf der Nachfrageseite sehen Sie und welche Lösungen?
@@ -57,7 +53,6 @@ collapsed:: true
 	-
 	-
 - ## #Konsultation_4_3
-  collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
 		- Welche konkreten Handlungsoptionen sehen Sie in den einzelnen Handlungsfeldern?
@@ -85,13 +80,11 @@ collapsed:: true
 		- Diese Handlungsoptionen sind darauf ausgerichtet, Hemmnisse für die Flexibilisierung des Stromverbrauchs abzubauen und den Übergang zu einem klimaneutralen Stromsystem zu unterstützen. Die vorgeschlagenen Maßnahmen müssen in einem koordinierten Ansatz umgesetzt werden, um die Effizienz und die Wettbewerbsfähigkeit des Strommarkts der Zukunft zu gewährleisten  [[page101]] [[page65]].
 	-
 - ## #Konsultation_4_4
-  collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
 		- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld?
 	- Positionierung:
 	  background-color:: green
-	  collapsed:: true
 		- Kapitel 3.4 des Dokuments beschreibt verschiedene Aktionsbereiche zur Förderung von Flexibilität im Stromsystem, wie die Einführung dynamischer Tarife, die Anpassung der Netzentgeltstruktur und die Unterstützung industrieller Flexibilität. Diese Ansätze sind wichtig, aber hier sind einige zusätzliche Aspekte, die ebenfalls adressiert werden sollten:
 		- **Integration von Speichertechnologien**:
 			- Speichertechnologien wie Batteriespeicher und Wasserstoffspeicher sollten stärker integriert werden, da sie eine wesentliche Rolle bei der Speicherung überschüssigen Stroms aus erneuerbaren Quellen spielen. Dies würde die Flexibilität verbessern, indem es ermöglicht wird, Strom zu speichern, wenn er im Überfluss vorhanden ist, und ihn freizugeben, wenn die Nachfrage hoch ist.

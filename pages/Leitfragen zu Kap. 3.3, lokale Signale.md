@@ -25,7 +25,6 @@
 		- ### Fazit
 			- Lokale Signale spielen eine entscheidende Rolle in der Zukunft des Strommarktdesigns. Sie bieten die Möglichkeit, die Effizienz des Stromsystems zu erhöhen, Investitionen systemdienlich zu lenken und die Integration erneuerbarer Energien zu fördern. Um diese Vorteile zu realisieren, müssen jedoch die Herausforderungen der Implementierung und Regulierung sorgfältig adressiert werden. Lokale Signale sollten klar kommuniziert und einfach gestaltet sein, um die Komplexität zu minimieren und die Akzeptanz bei den Marktteilnehmern zu erhöhen [[page97]] [[page85]] [[page25]].
 - ## #Konsultation_3_2
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Welche Vor- und Nachteile bestehen bei den vorgestellten Optionen für lokale Signale?
@@ -74,7 +73,6 @@
 		  Jede Option für lokale Signale bietet spezifische Vor- und Nachteile. Der Schlüssel zum Erfolg liegt in einer sorgfältigen Abwägung und Kombination der verschiedenen Ansätze, um die jeweilige Komplexität der Implementierung zu minimieren und gleichzeitig die größtmögliche Effizienz und Systemstabilität zu gewährleisten. Die Wahl der geeigneten Instrumente sollte immer den regionalen und technologischen Gegebenheiten angepasst werden [[page91]] [[page97]][[page110]].
 	-
 - ## #Konsultation_3_3
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Welche Ansätze sehen Sie, um lokale Signale im Strommarkt zu etablieren und sowohl effizienten Einsatz/Verbrauch als auch räumlich systemdienliche Investitionen anzureizen?
@@ -130,7 +128,6 @@
 	-
 	-
 - ## #Konsultation_3_4
-  collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
 		- Welche Gefahren sehen Sie, wenn es nicht gelingt, passende lokale Signale im Strommarkt zu etablieren?
@@ -149,7 +146,6 @@
 			- Lokale Signale können zwar auch politische Herausforderungen in Bezug auf Verteilungsgerechtigkeit und Wettbewerbsfähigkeit mit sich bringen. Ohne sie könnte jedoch die Lastverteilung ungerechter werden, was insbesondere für weniger privilegierte Regionen nachteilig sein könnte [[page86]] [[page97]].
 		- Insgesamt sind lokale Signale entscheidend, um eine flexible, effiziente und sichere Stromversorgung zu gewährleisten. Fehlen diese Signale, so könnten die Netzausbaukosten sowie die Betriebskosten des Stromsystems erheblich steigen und die Versorgungssicherheit gefährdet werden.
 - ## #Konsultation_3_5
-  collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
 	  collapsed:: true

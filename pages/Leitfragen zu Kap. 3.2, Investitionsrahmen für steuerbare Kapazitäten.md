@@ -1,5 +1,4 @@
 ## #Konsultation_2_1
-collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Wie schätzen Sie die Notwendigkeit der Anpassungs- und Anschlussfähigkeit des Kapazitätsmechanismus für künftige Entwicklungen ein?
@@ -33,7 +32,6 @@ collapsed:: true
 		-
 		-
 - ## #Konsultation_2_2
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Wie bewerten Sie im ZKM die Herausforderung, den Beitrag neuer Technologien und insbesondere flexibler Lasten angemessen zu berücksichtigen, sowie das Risiko einer Überdimensionierung?
@@ -55,7 +53,6 @@ collapsed:: true
 				- Die Integration neuer Technologien und flexibler Lasten in den ZKM ist sowohl herausfordernd als auch kritisch für die künftige Versorgungssicherheit und Systemeffizienz. Die administrativen Hürden und die risikoaverse Natur des zentralen Mechanismus bergen das Risiko der Überdimensionierung, was zu höheren Kosten führt. Modelle, die auf präzisen lokalen Messungen oder externen Wettermodellen basieren, bieten unterschiedliche Vor- und Nachteile hinsichtlich Genauigkeit, Aufwand und Kosten. Insgesamt bleibt die Balance zwischen Sicherheit, Effizienz und Flexibilität die größte Herausforderung bei der Gestaltung eines zukunftsfähigen und kosteneffizienten Kapazitätsmechanismus [[page50]] [[page49]] [[page77]] .
 	-
 - ## #Konsultation_2_3
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Wie signifikant sind aus Ihrer Sicht die Effekte für Speicher und flexible Lasten durch die europarechtlich geforderten Rückzahlungen, die insbesondere im ZKM zum Tragen kommen?
@@ -77,7 +74,6 @@ collapsed:: true
 			- Insgesamt ist die Einführung europarechtlich geforderter Rückzahlungsmechanismen im ZKM mit wesentlichen Herausforderungen verbunden, insbesondere für Speicher und flexible Lasten. Diese Mechanismen können die wirtschaftliche Attraktivität und Investitionsanreize für Speicher und flexible Lasten erheblich beeinträchtigen. Die Gefahr der Überdimensionierung und die administrative Komplexität sind zusätzliche Risiken, die berücksichtigt werden müssen. Eine sorgfältige Gestaltung und Umsetzung der Rückzahlungsmechanismen ist entscheidend, um unerwünschte Nebeneffekte zu minimieren und die Vorteile eines flexiblen und effizienten Strommarktes vollständig auszuschöpfen [[page27]] [[page26]] [[page73]].
 	-
 - ## #Konsultation_2_4
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Wie bewerten Sie die Synthese aus ZKM und DKM im kombinierten KKM hinsichtlich der Chancen und Herausforderungen?
@@ -106,7 +102,6 @@ collapsed:: true
 			- Der Kombinierte Kapazitätsmarkt (KKM) bietet klare Vorteile durch die Synthese der zentralen und dezentralen Elemente, darunter eine erhöhte Investitionssicherheit, Technologieoffenheit und Flexibilität. Allerdings sind die Komplexität der Implementierung und die Notwendigkeit präziser Koordination wesentliche Herausforderungen, die erfolgreich bewältigt werden müssen, um das volle Potenzial dieses Ansatzes auszuschöpfen. Insgesamt kann der KKM, wenn gut umgesetzt, helfen, die Versorgungssicherheit kosteneffizient zu gewährleisten und die Energiewende zu unterstützen [[page79]][[page77]][[page75]].
 	-
 - ## #Konsultation_2_5
-  collapsed:: true
 	- Fragestellung
 	  background-color:: yellow
 		- Wäre aus Ihrer Sicht auch eine Kombination aus ZKM und KMS denkbar?
