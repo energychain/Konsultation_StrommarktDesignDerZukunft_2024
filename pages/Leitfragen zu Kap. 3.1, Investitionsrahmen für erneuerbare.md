@@ -1,4 +1,5 @@
 ## #Konsultation_1_1
+collapsed:: true
 	- Fragestellung:
 	  background-color:: yellow
 		- Wie bewerten Sie die Auswirkungen der verschiedenen Optionen und Ausgestaltungsvarianten auf effizienten Anlageneinsatz und systemdienliche Anlagenauslegung? Beachten Sie dabei auch folgende Teilaspekte :
