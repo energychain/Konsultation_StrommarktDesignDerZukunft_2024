@@ -1,0 +1,20 @@
+# Gleitende Marktprämie mit Refinanzierungsbeitrag
+	- #### Grundlagen
+		- Option 1 basiert auf einer produktionsabhängigen Zahlungsstruktur und verwendet einen sogenannter gleitenden Marktprämie mit Refinanzierungsbeitrag. Hierbei erhält der Betreiber einer erneuerbaren Energieanlage eine variable Vergütung, die auf der tatsächlich eingespeisten Strommenge basiert [[page40]][[page38]].
+	- #### Funktionsweise
+		- **Variable Vergütung:**
+			- Die Vergütung basiert auf einem anzulegenden Wert und einem Referenzmarktpreis. Der Betreiber erhält die Differenz zwischen dem anzulegenden Wert und dem durchschnittlichen Marktwert der Referenzperiode, wenn der anzulegende Wert den Marktwert übersteigt [[page40]].
+			- Diese Mechanik wird als gleitende Marktprämie bezeichnet und ist bereits im EEG etabliert.
+		- **Marktwertkorridor:**
+			- Die gleitende Marktprämie wird durch einen Refinanzierungsbeitrag ergänzt, welcher als Claw-Back-Mechanismus wirkt. Dieser gewährleistet, dass Erlöse, die über einen gewissen Cap hinausgehen, an den Staat zurückgezahlt werden. Dadurch entsteht ein Marktwertkorridor: Zwischen einem Floor (Mindestpreis) und einem Cap (Höchstpreis) erfolgen keine finanziellen Transaktionen zwischen Staat und Betreiber [[page40]][[page42]].
+		- **Anreize:**
+			- Diese Option bietet Standorte mit unterschiedlichen Standortgüten Anreize durch erprobte Mechanismen, wie das Referenzertragsmodell. Zudem bleiben Anlagenbetreiber preislich exponiert, was zu einer Marktreaktion und potenziell effizienteren Betriebsweisen führen kann [[page42]].
+	- #### Chancen und Herausforderungen
+		- **Chancen:**
+			- Diese Option stellt eine geringe Systemumstellung dar, da sie auf dem bestehenden EEG-System aufbaut.
+			- Es gibt differenzierte Anreize für unterschiedliche Standortgüten und einen Anreiz, auf Preissignale zu reagieren[[page42]].
+		- **Herausforderungen:**
+			- Das Mengenrisiko aufgrund wechselnder Wetterbedingungen und unsicherer Preisstunden bleibt bestehen, was Erlösunsicherheiten und höhere Kapitalkosten mit sich bringen kann.
+			- Die Systemumstellung und der Verwaltungsaufwand könnten erhöht werden, um effizienten Anlageneinsatz und systemdienliche Anlagenauslegung zu gewährleisten [[page42]][[page40]].
+	- #### Fazit
+		- Option 1 verbindet etablierte Mechaniken mit neuen Elementen, um sowohl Produktionsunsicherheiten als auch Überschusserlöse anzusprechen. Durch die moderate Systemumstellung bleibt sie eine realistische, aber möglicherweise durch Erlös- und Mengenschwankungen belastete Option im künftigen Strommarktdesign [[page40]][[page38]][[page42]].

@@ -1,0 +1,10 @@
+- Die Kapitalkostenunterschiede zwischen einem Investitionsrahmen mit und ohne Marktwertkorridor resultieren aus der unterschiedlichen Sicherheit des Zahlungsstroms, den die Anlagenbetreiber erwarten können.
+- ### Investitionsrahmen mit Marktwertkorridor
+	- **Sicherheit des Zahlungsstroms**: Weniger sicher, da der Marktwertkorridor Preisschwankungen auslöst. Anlagenbetreiber müssen die unsicheren Markterlöse in ihre Gebotskalkulation einbeziehen, was die Gesamtsicherheit verringert.
+	- **Kapitalkosten**: Höher, denn Kapitalgeber verlangen höhere Risikoaufschläge, um das erhöhte Risiko durch unsichere Markterlöse zu kompensieren. Die Kapitalkosten steigen tendenziell, je breiter der Marktwertkorridor ist.
+- ### Investitionsrahmen ohne Marktwertkorridor
+	- **Sicherheit des Zahlungsstroms**: Höher, da die Erlöse planbarer und weniger von Marktpreisschwankungen beeinflusst sind. Anlagenbetreiber können keinen unsicheren Markterlöse zur Finanzierung einplanen, sondern werden durch einen stabilen Investitionsschutz davon profitieren.
+	- **Kapitalkosten**: Niedriger, weil die Sicherheit des Zahlungsstroms die Risikoaufschläge reduzieren, die Kapitalgeber für die Finanzierung verlangen würden. Die Kapitalkosten dürften daher tendenziell sinken, wenn der Marktwertkorridor entfällt.
+- ### Zusammenfassung
+	- Ein Investitionsrahmen ohne Marktwertkorridor führt in der Regel zu niedrigeren Kapitalkosten, da er eine höhere Sicherheit und Planbarkeit des Zahlungsstroms für die Anlagenbetreiber bietet. Diese geringere Unsicherheit reduziert die Risikoaufschläge, die von Kapitalgebern gefordert werden, und senkt somit die Gesamtkapitalkosten.
+-

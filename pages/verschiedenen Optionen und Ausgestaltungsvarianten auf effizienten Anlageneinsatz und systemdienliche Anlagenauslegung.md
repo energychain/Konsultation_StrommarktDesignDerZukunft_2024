@@ -1,0 +1,17 @@
+- s.h.  [[Auswirkungen hätte eine Umsetzung der 4 Optionen auf die Terminvermarktung von Strom durch EE-Anlagen]]
+- ### 1. Gleitende Marktprämie mit Refinanzierungsbeitrag (zweiseitiger Differenzvertrag mit Marktwertkorridor)
+	- **Beschreibung**: Der Anlagenbetreiber erhält eine variable Vergütung pro tatsächlich eingespeiste Kilowattstunde, basierend auf einem festgelegten anzulegenden Wert und einem Referenzmarktpreis.
+	- **Vorteile**: Anreize für effizienten Anlageneinsatz und systemdienliche Anlagenauslegung durch Anpassung von Anlagenausrichtung und Standortwahl. Die Vermarktung der Strommengen und der Ausgleich kurzfristiger Prognosefehler erfolgen durch den Anlagenbetreiber oder einen Direktvermarkter.
+	- **Nachteile**: Abhängigkeit von kurzfristigen Marktpreisänderungen kann zu Unsicherheiten führen.
+- ### 2. Produktionsabhängiger zweiseitiger Differenzvertrag ohne Marktwertkorridor
+	- **Beschreibung**: Ähnlich der gleitenden Marktprämie, aber ohne Marktwertkorridor. Dies bedeutet, dass der Zahlungsmechanismus direkter an die Produktionsmenge gekoppelt ist.
+	- **Vorteile**: Stabilere Kapitalkosten durch geringere Marktwertabhängigkeit. Anreize für bessere Standortwahl und Anlagenausrichtung bleiben bestehen.
+	- **Nachteile**: Erhöhtes Risiko bei der Abweichung vom Referenzmarktwert, was zu höheren Kapitalkosten und Unsicherheiten führen kann.
+- ### 3. Produktionsunabhängiger zweiseitiger Differenzvertrag
+	- **Beschreibung**: Die Zahlungen hängen nicht von der tatsächlichen Produktion, sondern vom geschätzten Stromproduktionspotenzial oder der Leistung einer Referenzanlage ab.
+	- **Vorteile**: Verringert Mengenrisiko durch negative Preise. Starke Anreize für systemdienliche Auslegung der Anlagen, da Zahlungen unabhängig von kurzen Marktpreisänderungen sind.
+	- **Nachteile**: Erhebliche Systemumstellung notwendig. Herausforderungen bei der genauen Bemessung und technischen Umsetzung. Mögliche Abweichungsrisiken zwischen tatsächlicher und prognostizierter Produktion.
+- ### 4. Kapazitätszahlung mit produktionsunabhängigem Refinanzierungsbeitrag
+	- **Beschreibung**: Feste Vergütung basierend auf der installierten Kapazität, unabhängig von der tatsächlichen Produktion. Ein Refinanzierungsbeitrag wird basierend auf den Markterlösen hinzugefügt oder zurückgefordert.
+	- **Vorteile**: Planungssicherheit und stabile Erlöse fördern niedrigere Kapitalkosten. Erhöhte Anreize für effizienten Anlageneinsatz durch Einbeziehung aller Marktsignale.
+	- **Nachteile**: Komplexität in der Parametrisierung von Refinanzierungsbeiträgen. Gefahr von Fehlanreizen für lediglich kapazitätsorientierte Anlagenoptimierung.

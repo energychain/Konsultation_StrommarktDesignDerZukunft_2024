@@ -1,0 +1,38 @@
+- Offizielle URL: https://survey.lamapoll.de/Umfrage-zum-Strommarktpapier
+- [Interne Beantwortung](Selbst Konsultation)
+- ## Leitfragen
+- ## Leitfragen zu Kap. 3.1, Investitionsrahmen für erneuerbare Energien
+- Wie bewerten Sie die Auswirkungen der [[verschiedenen Optionen und Ausgestaltungsvarianten auf effizienten Anlageneinsatz und systemdienliche Anlagenauslegung]]? Beachten Sie dabei auch folgende Teilaspekte (max. 3.500 Zeichen):
+	- Wie relevant sind aus Ihrer Sicht [[Erlösunsicherheiten bei Gebotsabgabe durch Prognoseunsicherheit]] von Stunden mit Null- oder Negativpreisen je Option?
+	- Wie schätzen Sie die Relevanz der [[Intraday-Verzerrungen]] durch produktionsabhängige Instrumente ein?
+	- Welche [[Auswirkungen hätte eine Umsetzung der 4 Optionen auf die Terminvermarktung von Strom durch EE-Anlagen]]? Unterscheiden sich die Auswirkungen zwischen den Optionen? Erwarten Sie Auswirkungen auf die Terminvermarktung von Strom durch die Beibehaltung und Breite eines etwaigen Marktwertkorridors?
+- Wie bewerten Sie die [[Auswirkungen der verschiedenen Optionen und deren Ausgestaltungsvarianten auf die Kapitalkosten]]? Beachten Sie dabei auch folgende Teilaspekte (max. 3.500 Zeichen):
+	- Welche [[Kapitalkostenunterschiede]] erwarten Sie im Vergleich von einem Investitionsrahmen mit und ohne einen Marktwertkorridor?
+	- Welche [[Kapitalkosteneffekte]] erwarten Sie durch Ausgestaltungsoptionen, die einen effizienten Anlageneinsatz und eine systemdienliche Anlagenauslegung verbessern sollen (zum Beispiel durch längere Referenzperioden, Bemessung von Zahlungen an geschätztem Produktionspotenzial oder Referenzanlagen, …)?
+- Wie bewerten Sie die Auswirkungen der verschiedenen Optionen und deren Ausgestaltungsvarianten mit Blick auf ihre technische und administrative Umsetzbarkeit und mögliche Systemumstellung? Beachten Sie dabei auch folgende Teilaspekte (max. 3.500 Zeichen):
+	- Wie groß schätzen Sie die Herausforderungen und Chancen einer Systemumstellung ein?
+	- Wie schätzen Sie die Umsetzbarkeit eines Modells mit produktionsunabhängigen Zahlungen auf Basis lokaler Windmessungen und die Umsetzbarkeit eines Modells mit eines produktionsunabhängigen Refinanzierungsbeitrags auf Basis von Wettermodellen ein?
+- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld (max. 2.500 Zeichen)?
+- Wie schätzen Sie die Notwendigkeit der Anpassungs- und Anschlussfähigkeit des Kapazitätsmechanismus für künftige Entwicklungen ein? (max 2.500 Zeichen)
+- Wie bewerten Sie im ZKM die Herausforderung, den Beitrag neuer Technologien und insbesondere flexibler Lasten angemessen zu berücksichtigen, sowie das Risiko einer Überdimensionierung? (max. 2.500 Zeichen)
+- Wie signifikant sind aus Ihrer Sicht die Effekte für Speicher und flexible Lasten durch die europarechtlich geforderten Rückzahlungen, die insbesondere im ZKM zum Tragen kommen? (max. 2.500 Zeichen)
+- Wie bewerten Sie die Synthese aus ZKM und DKM im kombinierten KKM hinsichtlich der Chancen und Herausforderungen? (max 2.500 Zeichen)
+- Wäre aus Ihrer Sicht auch eine Kombination aus ZKM und KMS denkbar?  (max. 2.500 Zeichen)
+- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld?  (max. 2.500 Zeichen)
+- Welche Rolle sehen Sie für lokale Signale in der Zukunft? (max. 2.500 Zeichen)
+- Welche Vor- und Nachteile bestehen bei den vorgestellten Optionen für lokale Signale?  (jeweils max. 2.000 Zeichen)
+	- Vorteile
+	- Nachteile
+- Welche Ansätze sehen Sie, um lokale Signale im Strommarkt zu etablieren und sowohl effizienten Einsatz/Verbrauch als auch räumlich systemdienliche Investitionen anzureizen? (max. 2.500 Zeichen)
+- Welche Gefahren sehen Sie, wenn es nicht gelingt, passende lokale Signale im Strommarkt zu etablieren? (max. 2.500 Zeichen)
+- Wie können lokale Preissignale möglichst einfach ausgestaltet werden, um neue Komplexität und etwaige Umsetzungsschwierigkeiten zu reduzieren? (max. 2.500 Zeichen)
+- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld? (max. 2.500 Zeichen)
+- Ist die Liste der Aktionsbereiche vollständig und wie bewerten Sie die einzelnen Aktionsbereiche? (max. 2.500 Zeichen)
+- Jenseits der Netzentgeltthemen, deren Einführung und Ausgestaltung in die Zuständigkeit der unabhängigen Regulierungsbehörde fallen:
+	- Welche konkreten Flexibilitätshemmnisse auf der Nachfrageseite sehen Sie und welche Lösungen? (max. 2.000 Zeichen)
+		- Hemmnisse
+		- Lösungen
+	- Welche konkreten Handlungsoptionen sehen Sie in den einzelnen Handlungsfeldern? (max. 2.500 Zeichen)
+	- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld? (max. 2.500 Zeichen)
+		-
+-
