@@ -1,0 +1,1 @@
+### Anmerkungen zum Handlungsfeld "Investitionsrahmen für steuerbare Kapazitäten"

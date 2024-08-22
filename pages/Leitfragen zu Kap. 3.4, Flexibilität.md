@@ -1,102 +1,19 @@
 ## #Konsultation_4_1
-	- Fragestellung:
-	  background-color:: yellow
-		- Ist die Liste der Aktionsbereiche vollständig und wie bewerten Sie die einzelnen Aktionsbereiche?
-	- Positionierung:
+	- background-color:: yellow
+	- Ist die Liste der Aktionsbereiche vollständig und wie bewerten Sie die einzelnen Aktionsbereiche?
+	- [[Vollständigkeit der Aktionsbereiche]]
 	  background-color:: green
-		- ### Vollständigkeit der Aktionsbereiche
-			- Die Aktionsbereiche, die im Dokument aufgeführt sind, umfassen:
-				- **Preisreaktion ermöglichen – Weg frei machen für dynamische und innovative Tarifmodelle**
-				- **Netzentgeltsystematik flexibilitätsfördernd anpassen**
-				- **Industrielle Flexibilität ermöglichen, individuelle Netzentgelte reformieren** [[page101]].
-			- Dies sind zentrale Maßnahmen, um Flexibilitätshemmnisse abzubauen.
-		- ### Bewertung der einzelnen Aktionsbereiche
-			- **Preisreaktion ermöglichen – Weg frei machen für dynamische und innovative Tarifmodelle**:
-				- Dies ist ein essenzieller Schritt, da dynamische Tarife Verbraucher dazu anregen, ihren Stromkonsum an Zeiten mit niedrigeren Preisen anzupassen. Dies fördert eine effizientere Nutzung des Stromnetzes und reduziert die Spitzennachfrage. Dabei ist der regulatorische Aufwand gering, da dies durch die flächendeckende Einführung intelligenter Messsysteme unterstützt wird [[page101]] [[page99]].
-			- **Netzentgeltsystematik flexibilitätsfördernd anpassen**:
-				- Diese Maßnahme ist wichtig, um Fehlanreize bei der Nutzung von Netzkapazitäten zu beseitigen. Zeitvariable Netzentgelte könnten Lastverschiebungen stimulieren und somit Netzengpässe vermeiden. Die Reform der Netzentgelte erfordert jedoch eine sorgfältige Abstimmung, um keine zusätzlichen regulatorischen Komplexitäten zu schaffen, da dies in die Zuständigkeit der Bundesnetzagentur fällt [[page101]] [[page107]].
-			- **Industrielle Flexibilität ermöglichen, individuelle Netzentgelte reformieren**:
-				- Dies ist notwendig, um Industrieverbraucher zu motivieren, ihre Flexibilität zur Netz- und Marktdienstleistung einzusetzen. Einzelne Netzentgelte, die derzeit oft zu einem konstanten Verbrauch anregen, müssen angepasst werden, um flexible Lasten nicht zu benachteiligen. Die Herausforderung besteht darin, diese Anpassungen wirtschaftlich tragfähig zu machen und dabei die Wettbewerbsfähigkeit der Industrie zu bewahren [[page101]] [[page107]][[page108]].
-			- Die genannten Aktionsbereiche scheinen die wesentlichen Hemmnisse zu adressieren und sind komplementär zueinander. Ihre Umsetzung sollte sorgfältig abgestimmt und kontinuierlich überwacht werden, um eine ganzheitliche und effiziente Flexibilisierung des Strommarktes zu gewährleisten.
-		-
-	-
 - **Jenseits der Netzentgeltthemen, deren Einführung und Ausgestaltung in die Zuständigkeit der unabhängigen Regulierungsbehörde fallen:**
 - ## #Konsultation_4_2
-	- Fragestellung:
-	  background-color:: yellow
-		- Welche konkreten Flexibilitätshemmnisse auf der Nachfrageseite sehen Sie und welche Lösungen?
-	- Positionierung:
+	- Welche konkreten Flexibilitätshemmnisse auf der Nachfrageseite sehen Sie und welche Lösungen?
+	- [[Flexibilitätshemmnisse auf der Nachfrageseite und vorgeschlagene Lösungen]]
 	  background-color:: green
-		- ### Flexibilitätshemmnisse auf der Nachfrageseite und vorgeschlagene Lösungen
-		- #### 1. Technische Hemmnisse
-			- **Beschreibung**:
-				- Mangel an intelligenten Messsystemen und automatisierten Steuerungseinrichtungen.
-				- Unzureichende Netzüberwachung und Kommunikationsinfrastruktur, besonders bei dezentralen und kleinen Lasten wie E-Mobilen und Wärmepumpen [[page91]] [[page81]].
-			- **Lösungen**:
-				- Einführung flächendeckender intelligenter Messsysteme und Steuerungseinrichtungen bis 2025 [[page101]].
-				- Investition in die Infrastruktur für die Netzüberwachung und Kommunikationssysteme, um kleine Lasten effektiv in das Netzmanagement einbinden zu können [[page81]].
-		- #### 2. Regulatorische Hemmnisse
-			- **Beschreibung**:
-				- Fehlende dynamische Tarifmodelle, die Preissignale an Endverbraucher weitergeben und Anreize für flexible Lastverschiebung setzen [[page101]] [[page99]].
-				- Ein starres Netzentgeltsystem, das Flexibilität nicht fördert und teilweise sogar behindert. Beispielsweise belohnen die aktuellen Regelungen der individuellen Netzentgelte eher gleichmäßigen Bandlastbezug [[page104]] [[page107]]
-			- **Lösungen**:
-				- Umsetzung und Förderung von dynamischen und innovativen Tarifmodellen ab 2025, sodass diese Standard werden und Endkunden von niedrigen Strompreisen profitieren können [[page101]].
-				- Anpassung des Netzentgeltsystems hin zu zeitvariablen und lokal differenzierten Netzentgelten, die Anreize für eine netzdienliche und flexible Nutzung von Strom setzen [[page88]] [[page101]][[page104]].
-		- #### 3. Ökonomische Hemmnisse
-			- **Beschreibung**:
-				- Hohe Investitionskosten für flexible Verbrauchs- und Steuerungstechnologien stellen ein finanzielles Hindernis dar.
-				- Fehlanreize durch bestehende Netzentgelte führen dazu, dass die Flexibilität primär zur Optimierung der Netzentgelte genutzt wird und nicht im Sinne des Gesamtsystems [[page107]].
-			- **Lösungen**:
-				- Einführung gezielter Förderprogramme und finanzieller Anreize für Investitionen in Flexibilitätstechnologien [[page106]] [[page81]].
-				- Reform der bestehenden Netzentgeltregelungen, um Fehlanreize zu beseitigen und Flexibilität ökonomisch attraktiv zu machen, indem z.B. zeitvariable Arbeitspreise eingeführt werden [[page104]] [[page107]].
-		- Diese vorgeschlagenen Maßnahmen zielen darauf ab, technische, regulatorische und ökonomische Hemmnisse abzubauen, um die nachfrageseitige Flexibilität zu erhöhen und somit zu einem effizienteren und klimaneutralen Stromsystem beizutragen [[page101]] [[page91]][[page106]].
-	-
-	-
 - ## #Konsultation_4_3
-	- Fragestellung:
-	  background-color:: yellow
-		- Welche konkreten Handlungsoptionen sehen Sie in den einzelnen Handlungsfeldern?
-	- Positionierung:
+	- Welche konkreten Handlungsoptionen sehen Sie in den einzelnen Handlungsfeldern?
+	- [[konkreten Handlungsoptionen]]
 	  background-color:: green
-		- Welche konkreten Handlungsoptionen sehen Sie in den einzelnen Handlungsfeldern?
-		- #### 1.   **Preisreaktion ermöglichen – Dynamische und innovative Tarifmodelle umsetzen**
-			- **Handlungsoptionen**:
-				- **Flächendeckende Einführung dynamischer Tarife**:
-					- Alle Energieversorger sollten verpflichtet werden, ab dem 1. Januar 2025 dynamische Tarife anzubieten. Diese Tarife spiegeln die Spotmarktpreise wider und ermöglichen es den Verbrauchern, von niedrigen Strompreisen zu profitieren [[page110]].
-				- **Förderung intelligenter Messsysteme**:
-					- Beschleunigte Einführung und positive Weiterentwicklung des "Gesetzes zum Neustart der Digitalisierung der Energiewende" (GNDEW), um die technischen Voraussetzungen für dynamische Tarife zu schaffen  [[page110]].
-		- #### 2.   **Netzentgeltsystematik flexibilitätsfördernd anpassen**
-			- **Handlungsoptionen**:
-				- **Einführung zeitlich und regional differenzierter Netzentgelte**:
-					- Diese sollen dazu beitragen, dass Verbraucher Anreize erhalten, ihren Stromverbrauch zu Zeiten und an Orten mit niedrigen Netzkosten zu verschieben. Netzentgelte in Regionen und Zeiten hoher EE-Erzeugung können abgesenkt werden, um den lokalen Verbrauch zu fördern und Netzengpässe zu vermeiden [[page88]] [[page87]].
-				- **Regelmäßige Anpassung von Netzentgelten**:
-					- Einführung eines Mechanismus zur regelmäßigen Anpassung von Netzentgelten basierend auf den aktuellen Netzbedingungen, um Fehlanreize zu vermeiden und die Kosteneffizienz zu erhöhen [[page88]] [[page87]].
-		- #### 3.   **Industrielle Flexibilität ermöglichen, individuelle Netzentgelte reformieren**
-			- **Handlungsoptionen**:
-				- **Reform der individuellen Netzentgelte**:
-					- Abschaffung oder Anpassung der individuellen Netzentgelte, die gegenwärtig oft gleichmäßigen Bandlastbezug belohnen, zugunsten von Modellen, die flexibel auf die Netzbedarfe reagieren  [[page110]].
-				- **Implementierung von Förderprogrammen für industrielle Flexibilität**:
-					- Schaffung von Anreizen für industrielle Verbraucher, in Flexibilitätstechnologien zu investieren und diese flexibel im Sinne des Stromsystems anzuwenden  [[page110]] [[page88]].
-		- Diese Handlungsoptionen sind darauf ausgerichtet, Hemmnisse für die Flexibilisierung des Stromverbrauchs abzubauen und den Übergang zu einem klimaneutralen Stromsystem zu unterstützen. Die vorgeschlagenen Maßnahmen müssen in einem koordinierten Ansatz umgesetzt werden, um die Effizienz und die Wettbewerbsfähigkeit des Strommarkts der Zukunft zu gewährleisten  [[page101]] [[page65]].
-	-
 - ## #Konsultation_4_4
-	- Fragestellung:
-	  background-color:: yellow
-		- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld?
-	- Positionierung:
+	- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld?
+	- [[Anmerkungen zu 3.4]]
 	  background-color:: green
-		- Kapitel 3.4 des Dokuments beschreibt verschiedene Aktionsbereiche zur Förderung von Flexibilität im Stromsystem, wie die Einführung dynamischer Tarife, die Anpassung der Netzentgeltstruktur und die Unterstützung industrieller Flexibilität. Diese Ansätze sind wichtig, aber hier sind einige zusätzliche Aspekte, die ebenfalls adressiert werden sollten:
-		- **Integration von Speichertechnologien**:
-			- Speichertechnologien wie Batteriespeicher und Wasserstoffspeicher sollten stärker integriert werden, da sie eine wesentliche Rolle bei der Speicherung überschüssigen Stroms aus erneuerbaren Quellen spielen. Dies würde die Flexibilität verbessern, indem es ermöglicht wird, Strom zu speichern, wenn er im Überfluss vorhanden ist, und ihn freizugeben, wenn die Nachfrage hoch ist.
-		- **Weiterbildung und Schulung**:
-			- Um die flexiblen Technologien erfolgreich einzusetzen, müssen sowohl Anbieter als auch Nutzer entsprechend geschult werden. Dies umfasst Schulungen für Betriebsführer von Industrieanlagen, Schulungen für Haushaltskunden zu neuen Tarifmodellen und die Weiterbildung von Technikern und Ingenieuren bezüglich neuer Technologien und deren Integration.
-		- **Entwicklung smarter Technologien**:
-			- Smarte Technologien wie intelligente Thermostate, smarte Ladegeräte für E-Fahrzeuge und andere IoT-basierte Lösungen können dazu beitragen, den Stromverbrauch effektiver zu steuern und Flexibilitätspotenziale auszuloten. Regulierungsmaßnahmen sollten die Entwicklung und Integration solcher Technologien fördern.
-		- **Regulatorische Erleichterungen für kleine Akteure**:
-			- Der regulatorische Rahmen sollte auch die Integration kleinerer Akteure wie Haushalte und kleine Unternehmen erleichtern. Dies bedeutet, dass es weniger komplexe und kostspielige Vorschriften geben sollte, die den Zugriff auf flexible Optionen blockieren könnten.
-		- **Bessere Anreize für flexible Lasten in der Industrie**:
-			- Neben der Reform der Netzentgelte sollten weitere Anreize geschaffen werden, um die Nutzung flexibler Lasten in der Industrie stärker zu fördern. Dies könnte über steuerliche Anreize oder direkte Subventionen für den Einsatz flexibler Technologien geschehen.
-		- **Kohärente Daten- und Informationssysteme**:
-			- Effiziente und transparente Daten- und Informationssysteme sind notwendig, um Marktakteuren die richtigen Signale zu geben und die Nutzung von Flexibilität zu optimieren. Dies umfasst die Verbesserung der Dateninfrastruktur, um eine rechtzeitige und genaue Übermittlung von Preissignalen und anderen relevanten Informationen zu gewährleisten.
-		- Diese zusätzlichen Aspekte könnten dazu beitragen, das Engagement und die Flexibilität verschiedener Marktakteure zu steigern und dadurch ein stabileres und effektiveres Stromsystem der Zukunft zu schaffen[[page101]] [[page99]][[page107]] [[page108]].
-		-
+-

@@ -1,0 +1,40 @@
+#### 1. Zeitlich/regional differenzierte Netzentgelte
+	- ##### Vorteile:
+		- **Netzentlastung und Einsparung bei Redispatch**:
+			- Sie tragen zur Entlastung des Netzes bei, was zu weniger Engpässen und reduzierten Redispatch-Kosten führt. Dies unterstützt einen sicheren und effizienten Netzbetrieb [[page90]] [[page91]].
+		- **Anreize für Flexibilität**:
+			- Diese Option setzt ökonomische Anreize für flexible Lasten, den Stromverbrauch in Engpasszeiten oder bei hoher erneuerbarer Erzeugung zu erhöhen. Es unterstützt die lokale Nutzung von Überschussstrom und die Flexibilisierung der Nachfrageseite [[page90]].
+		- **Investitionsanreize**:
+			- Differenzierte Netzentgelte bieten Anreize für Investitionen in flexible Lasten und andere Technologien in Regionen mit hoher abgeregelter Erzeugung, was langfristig wirtschaftliche Vorteile bieten kann [[page90]].
+	- ##### Nachteile:
+		- **Komplexität und administrative Umsetzung**:
+			- Die Umsetzung dieser Option ist komplex und erfordert eine genaue Überwachung der Netzsituationen sowie die Integration in bestehende Abrechnungssysteme. Dies kann zu erhöhten administrativen Kosten und Aufwand führen [[page91]] [[page90]].
+	- **Begrenzte Anwendungsbreite**:
+		- Der Nutzen ist für Erzeuger und Netzteilnehmer, die derzeit keine Netzentgelte zahlen (z.B. Speicher, Elektrolyseure), gering. Dieses Instrument adressiert hauptsächlich Verbraucher, die von Netzentgelten beeinträchtigt werden [[page91]].
+	- **Regulatorische Hürden**:
+		- Die erfolgreiche Umsetzung erfordert neue regulatorische Rahmenbedingungen, was weiteren administrativen Aufwand und die Notwendigkeit einer Abstimmung mit den zuständigen Behörden mit sich bringt [[page98]] [[page91]].
+- #### 2. Regionale Steuerung in Förderprogrammen
+	- ##### Vorteile:
+		- **Gezielte Steuerung von Investitionen**:
+			- Diese Option ermöglicht die gezielte Steuerung von Investitionen, um systemdienliche Standorte zu bevorzugen, insbesondere bei Technologien, die eine außergewöhnlich hohe Netzrelevanz haben [[page93]].
+		- **Technologiespezifische Anreize**:
+			- Es lassen sich spezifische Anreize für bestimmte Technologien setzen, was die regionale Verteilung und die Effizienz der Investitionen erhöhen kann [[page93]].
+	- ##### Nachteile:
+		- **Administrative Komplexität**:
+			- Förderprogramme sind oft bürokratisch und kompliziert in der Umsetzung. Die Integration regionaler Komponenten kann die Komplexität weiter erhöhen und die Effizienz der Fördermaßnahmen beeinträchtigen [[page93]].
+		- **Weniger Wettbewerb**:
+			- Eine zu starke regionale Steuerung könnte den Wettbewerb in Ausschreibungen reduzieren und die Erstellung von Kostenmehrbelastungen fördern [[page93]].
+- #### 3. Einbindung von Lasten in den Redispatch
+	- ##### Vorteile:
+		- **Netzentlastung und Kosteneffizienz**:
+			- Dieses Instrument nutzt intrinsische Anreize, Verbrauchsentscheidungen auf die aktuelle Netzsituation abzustimmen, was die Netzengpässe senken und damit die Redispatch-Kosten reduzieren kann [[page88]] [[page97]].
+		- **Flexibilitätsförderung**:
+			- Es fördert aktiv die Flexibilität auf der Verbrauchsseite und kann dadurch helfen, die Schwankungen in der Erzeugung erneuerbarer Energien besser auszugleichen [[page88]] [[page110]].
+	- ##### Nachteile:
+		- **Technische Herausforderungen**:
+			- Die notwendigen technischen Voraussetzungen, wie etwa viertelstündliche Verbrauchsabrechnung und intelligente Messinfrastruktur, sind aufwendig in der Implementierung [[page91]].
+		- **Eingeschränkte Zielgruppe**:
+			- Die Vorteile kommen überwiegend nur großen Verbrauchern zugute, die flexibel auf Preisschwankungen reagieren können. Kleinere Verbraucher profitieren möglicherweise weniger [[page91]].
+- ### Fazit
+  
+  Jede Option für lokale Signale bietet spezifische Vor- und Nachteile. Der Schlüssel zum Erfolg liegt in einer sorgfältigen Abwägung und Kombination der verschiedenen Ansätze, um die jeweilige Komplexität der Implementierung zu minimieren und gleichzeitig die größtmögliche Effizienz und Systemstabilität zu gewährleisten. Die Wahl der geeigneten Instrumente sollte immer den regionalen und technologischen Gegebenheiten angepasst werden [[page91]] [[page97]][[page110]].

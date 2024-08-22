@@ -9,6 +9,15 @@ Unterstützung der Konsultation des am 01.08.2024 durch das BMWK veröffentlicht
 
 Auf Basis des Papers selbst lassen sich die Leitfragen aus der Konsulation bereits hinreichend beantworten. 
 
+## Installation
+
+GIT Repository auschecken
+```
+git clone https://github.com/energychain/Konsultation_StrommarktDesignDerZukunft_2024
+```
+
+[LogSEQ](https://logseq.com/) installieren und ausgechecktes Verzeichnis als Graph öffnen.
+
 ### Selbstreferenzialität
 
 #### Beispiel

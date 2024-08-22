@@ -1,0 +1,18 @@
+#### Effizienter Anlageneinsatz und systemdienliche Auslegung
+	- Produktionsunabhängige Investitionsrahmen bieten deutliche Vorteile hinsichtlich Anreize für effizienten Anlagenbetrieb und systemdienliche Auslegung. Sie setzen stärkere und unmittelbarere Anreize im Vergleich zu produktionsabhängigen Modellen, besonders auch im Intraday-Markt, durch Vermeidung von Fehlanreizen und Verzicht auf Sonderregelungen für negative Preise [[page54]][[page50]][[page42]].
+- #### Erlösunsicherheiten durch Prognoseunsicherheiten von Stunden mit Null- oder Negativpreisen
+	- Erlösunsicherheiten durch Null- oder Negativpreise sind bei produktionsabhängigen Modellen höher. Diese Unsicherheiten erhöhen die Kapitalkosten und können die Finanzierung der Anlagen gefährden [[page64]][[page42]][[page45]].
+- #### Intraday-Verzerrungen durch produktionsabhängige Instrumente
+	- Produktionsabhängige Instrumente können zu Intraday-Verzerrungen führen, weil Anlagenbetreiber bei negativen Preisen geneigt sind, die Produktion zu drosseln oder ganz einzustellen, um Verluste zu minimieren. Diese Verzerrungen führen zu ineffizientem Anlagenbetrieb und insgesamt höheren Systemkosten [[page55]][[page64]].
+- ### Auswirkungen der 4 Optionen auf die Terminvermarktung von Strom durch EE-Anlagen
+	- #### #Option_1: Gleitende Marktprämie mit Refinanzierungsbeitrag
+		- Die Erlösabsicherung durch den Floor und Cap verringert die Erlösunsicherheit, aber beinhaltet dennoch ein Preis- und Mengenrisiko, insbesondere durch die Unsicherheit von Null- oder Negativpreisen [[page42]][[page43]].
+	- #### #Option_2: Produktionsabhängiger zweiseitiger Differenzvertrag ohne Marktwertkorridor
+		- Diese Option reduziert die Komplexität der Kalkulationen und erhöht die Kapitalkostensicherheit. Langfristig könnten negative Auswirkungen durch anhaltende Erlösunsicherheiten aufgrund von Null- oder Negativpreise bestehen bleiben [[page43]][[page45]].
+	- #### #Option_3: Produktionsunabhängiger zweiseitiger Differenzvertrag
+		- Diese Option bietet eine hohe Absicherung von Preis- und Mengenrisiken und kann so die Terminvermarktung durch erhöhte Planungssicherheit und geringere Kapitalkosten positiv beeinflussen. Durch die Entkopplung der Zahlungen von den tatsächlichen Marktpreisen wird eine Exposition zu negativen Preisen vermieden, was Intraday-Verzerrungen deutlich reduzieren könnte [[page13]][[page14]].
+	- #### #Option_4: Kapazitätszahlung mit produktionsunabhängigem Refinanzierungsbeitrag
+		- Diese Option bietet die größte Sicherheit, da die Erlöse unabhängig von der Produktionsmenge ausgezahlt werden. Jedoch stellt diese Option auch die größte Systemumstellung dar und könnte zunächst Akzeptanzprobleme verursachen. Langfristig könnte sie die Terminvermarktung durch eine stabile Kapitalbasis und Planungssicherheit erheblich vereinfachen [[page64]][[page52]][[page57]].
+- ### Auswirkungen auf die Terminvermarktung durch Beibehaltung und Breite eines Marktwertkorridors
+	- Eine breite Spanne im Marktwertkorridor könnte zu höheren Kapitalkosten führen, weil sie zusätzliche Risiken für die Anlagenbetreiber beinhaltet. Dies könnte die Terminvermarktung von Strom erschweren, da Absicherungen gegen Preisrisiken komplexer und teurer werden [[page42]][[page45]][[page35]].
+	- Insgesamt bieten Optionen, die produktionsunabhängige Zahlungen beinhalten (#Option_3 und #Option_4), die größten Vorteile hinsichtlich Planungssicherheit, Reduktion von Erlösunsicherheiten und Minimierung von Intraday-Verzerrungen. Diese Optionen tragen durch klare und stabile Anreize wesentlich zur Erhöhung der Kapitalkostensicherheit und zur effizienten und systemdienlichen Anlagenauslegung bei.

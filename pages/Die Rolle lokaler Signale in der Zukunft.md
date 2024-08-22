@@ -1,0 +1,18 @@
+#### Bedeutung lokaler Signale
+	- Mit dem steigenden Anteil erneuerbarer Energien und der zunehmenden Zahl flexibler Stromverbraucher wird die Bedeutung von Zeitpunkt und Ort der Stromerzeugung und des Stromverbrauchs immer entscheidender für eine effiziente Netzkoordination. Der Netzausbau und Redispatch alleine werden nicht ausreichen, um die Herausforderungen zu bewältigen, weshalb lokale Signale notwendig sein werden [[page97]] [[page85]].
+- #### Vorteile lokaler Signale
+	- **Effiziente Netzbelastung**:
+		- Lokale Signale helfen, Netzengpässe zu minimieren, indem sie Anreize schaffen, Strom dort zu verbrauchen, wo er erzeugt wird. Dies kann Redispatch-Kosten und Netzausbaukosten reduzieren und zu einem insgesamt effizienteren Stromsystem führen [[page97]] [[page86]].
+	- **Systemdienliche Investitionen und Verbrauch**:
+		- Lokale Signale können Investitionen in Regionen lenken, die systemdienlich sind, wie beispielsweise die Ansiedlung von Erzeugungsanlagen in nachfragestarken Regionen oder von Lasten in Regionen mit viel erneuerbarem Strom. Dies fördert gleichzeitig die Integration von Flexibilität und die Optimierung des Anlageneinsatzes und -verbrauchs [[page10]] [[page25]].
+	- **Kosteneffizienz**:
+		- Durch die stärkere lokale Nutzung von Strom kann die Systemeffizienz erhöht und die Kosten für Redispatch sowie Netzentgelte gesenkt werden. Stromverbraucher vor Ort profitieren von kostengünstigem Strom und die Netzbelastung wird reduziert [[page86]] [[page25]].
+- #### Herausforderungen lokaler Signale
+	- **Komplexität und Umsetzung**:
+		- Die Einführung lokaler Signale erfordert eine sorgfältige Parametrierung und Überwachung. Es muss sichergestellt werden, dass die Signale klar und verständlich kommuniziert werden und dass die technologischen und administrativen Anforderungen erfüllt sind [[page86]] [[page12]].
+	- **Regulatorische Rahmenbedingungen**:
+		- Lokale Signale müssen in die bestehenden regulatorischen Rahmen eingefügt werden, was komplex sein kann. Insbesondere die Abstimmung zwischen zeitlich/regional differenzierten Netzentgelten und anderen lokalen Steuerungsmaßnahmen bedarf einer sorgfältigen Planung und Koordination [[page80]] [[page85]].
+	- **Fairness und Wettbewerb**:
+		- Es besteht das Risiko, dass lokale Signale regionale Ungleichheiten verstärken könnten, wenn bestimmte Regionen bevorzugt werden. Dies erfordert geeignete Kompensationsmechanismen, um Verteilungsgerechtigkeit und Wettbewerbsfähigkeit zu gewährleisten [[page86]].
+- ### Fazit
+	- Lokale Signale spielen eine entscheidende Rolle in der Zukunft des Strommarktdesigns. Sie bieten die Möglichkeit, die Effizienz des Stromsystems zu erhöhen, Investitionen systemdienlich zu lenken und die Integration erneuerbarer Energien zu fördern. Um diese Vorteile zu realisieren, müssen jedoch die Herausforderungen der Implementierung und Regulierung sorgfältig adressiert werden. Lokale Signale sollten klar kommuniziert und einfach gestaltet sein, um die Komplexität zu minimieren und die Akzeptanz bei den Marktteilnehmern zu erhöhen [[page97]] [[page85]] [[page25]].

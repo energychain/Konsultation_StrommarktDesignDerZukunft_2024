@@ -1,0 +1,14 @@
+- Die Aktionsbereiche, die im Dokument aufgeführt sind, umfassen:
+	- **Preisreaktion ermöglichen – Weg frei machen für dynamische und innovative Tarifmodelle**
+	- **Netzentgeltsystematik flexibilitätsfördernd anpassen**
+	- **Industrielle Flexibilität ermöglichen, individuelle Netzentgelte reformieren** [[page101]].
+	- Dies sind zentrale Maßnahmen, um Flexibilitätshemmnisse abzubauen.
+- ### Bewertung der einzelnen Aktionsbereiche
+	- **Preisreaktion ermöglichen – Weg frei machen für dynamische und innovative Tarifmodelle**:
+		- Dies ist ein essenzieller Schritt, da dynamische Tarife Verbraucher dazu anregen, ihren Stromkonsum an Zeiten mit niedrigeren Preisen anzupassen. Dies fördert eine effizientere Nutzung des Stromnetzes und reduziert die Spitzennachfrage. Dabei ist der regulatorische Aufwand gering, da dies durch die flächendeckende Einführung intelligenter Messsysteme unterstützt wird [[page101]] [[page99]].
+	- **Netzentgeltsystematik flexibilitätsfördernd anpassen**:
+		- Diese Maßnahme ist wichtig, um Fehlanreize bei der Nutzung von Netzkapazitäten zu beseitigen. Zeitvariable Netzentgelte könnten Lastverschiebungen stimulieren und somit Netzengpässe vermeiden. Die Reform der Netzentgelte erfordert jedoch eine sorgfältige Abstimmung, um keine zusätzlichen regulatorischen Komplexitäten zu schaffen, da dies in die Zuständigkeit der Bundesnetzagentur fällt [[page101]] [[page107]].
+	- **Industrielle Flexibilität ermöglichen, individuelle Netzentgelte reformieren**:
+		- Dies ist notwendig, um Industrieverbraucher zu motivieren, ihre Flexibilität zur Netz- und Marktdienstleistung einzusetzen. Einzelne Netzentgelte, die derzeit oft zu einem konstanten Verbrauch anregen, müssen angepasst werden, um flexible Lasten nicht zu benachteiligen. Die Herausforderung besteht darin, diese Anpassungen wirtschaftlich tragfähig zu machen und dabei die Wettbewerbsfähigkeit der Industrie zu bewahren [[page101]] [[page107]][[page108]].
+	- Die genannten Aktionsbereiche scheinen die wesentlichen Hemmnisse zu adressieren und sind komplementär zueinander. Ihre Umsetzung sollte sorgfältig abgestimmt und kontinuierlich überwacht werden, um eine ganzheitliche und effiziente Flexibilisierung des Strommarktes zu gewährleisten.
+	-

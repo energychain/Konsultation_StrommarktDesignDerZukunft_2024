@@ -1,0 +1,15 @@
+- Zusätzlich zu den bereits beschriebenen Punkten gibt es einige wesentliche Herausforderungen und Chancen im Handlungsfeld der lokalen Preissignale, die besonders beachtet werden sollten:
+  background-color:: green
+- **Einfachheit in der Ausgestaltung**:
+	- Eine effektive und möglichst simple Implementierung von zeitlich und regional differenzierten Netzentgelten kann helfen, lokale Preissignale zu setzen. Dies würde Investitionsentscheidungen und den Einsatz von Lasten und Erzeugern in systemdienlichen Zeitfenstern anregen[[page88]].
+- **Berücksichtigung politischer Herausforderungen**:
+	- Lokale Signale müssen so gestaltet werden, dass sie nicht nur Kosteneffizienz sicherstellen, sondern auch Verteilungsgerechtigkeit und die Wettbewerbsfähigkeit der Regionen berücksichtigen. Herausforderungen wie die Investitionssicherheit und potenzielle regionale Nachteile müssen ebenfalls bewältigt werden [[page86]].
+- **Dreiklang zur Bewältigung zukünftiger Herausforderungen**:
+	- Ein funktionierendes Zusammenspiel aus beschleunigtem Netzausbau, leistungsfähigem Redispatch als Kurzfristmaßnahme und lokalen Signalen stellt sicher, dass die Netzengpässe und die Integration erneuerbarer Energien effizient bewältigt werden können[[page80]].
+- **Flexibilität und Systemeffizienz**:
+	- Geeignete lokale Signale können die Systemeffizienz erhöhen, indem sie die lokalen Netzsituation für Verbraucher und Erzeuger sichtbar machen. Dies unterstützt die Netzstabilität und senkt die Gesamtsystemkosten [[page86]] [[page87]].
+- **Integration in Förderprogramme**:
+	- Eine regionale Steuerung in Förderprogrammen kann dazu beitragen, dass Investitionen in neue Kapazitäten möglichst systemdienlich erfolgen. Besonders in Regionen mit hohen erneuerbaren Energien kann dies die Netzstabilität unterstützen [[page87]].
+- **Mess- und Kommunikationsinfrastruktur**:
+	- Damit lokale Preissignale effektiv wirken können, ist der Ausbau einer digitalen und intelligenten Mess-, Kommunikations- und Steuerungsinfrastruktur notwendig. Diese Infrastruktur ermöglicht eine präzise und zeitnahe Reaktion auf lokale Netzbedingungen und Flexibilitätsanforderungen [[page25]].
+- Durch diese Maßnahmen und Ansätze können lokale Preissignale nicht nur zur Effizienz und Stabilität des Stromsystems beitragen, sondern auch für eine faire und wettbewerbsfähige Gestaltung des zukünftigen Strommarktdesigns sorgen.

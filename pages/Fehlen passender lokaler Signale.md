@@ -1,0 +1,12 @@
+- Das Fehlen passender lokaler Signale im Strommarkt könnte erhebliche Gefahren mit sich bringen:
+- **Belastung der Netze und erhöhter Redispatch-Bedarf**:
+	- Ohne lokale Signale könnten Netzengpässe häufiger auftreten. Dies würde zu einem erhöhten Redispatch-Bedarf führen, was ineffizient und kostspielig ist [[page86]] [[page91]][[page88]].
+- **Ineffizienz und höhere Kosten**:
+	- Lokale Signale tragen dazu bei, die Stromerzeugung und den -verbrauch besser an die regionalen Netzkapazitäten anzupassen. Ohne diese Signale könnte es zu einer ineffizienten Nutzung der Netzinfrastruktur kommen, was die Gesamtkosten für das Stromsystem erhöhen würde [[page97]] [[page25]].
+- **Investitionsunsicherheit**:
+	- Fehlende lokale Signale könnten zu einer unzureichenden Investition in systemdienliche Standorte führen. Dies beeinträchtigt die langfristige Planung und Entwicklung von Infrastruktur und kann zu höheren Kosten und Verzögerungen führen [[page85]] [[page42]].
+- **Verschlechterung der Versorgungssicherheit**:
+	- Ohne lokale Signale könnte die Fähigkeit des Stromnetzes, die Nachfrage entsprechend den lokalen Gegebenheiten zu steuern, eingeschränkt sein. Dies könnte die Versorgungssicherheit insbesondere in Engpasssituationen gefährden [[page88]] [[page10]].
+- **Ungerechte Verteilung und politische Herausforderungen**:
+	- Lokale Signale können zwar auch politische Herausforderungen in Bezug auf Verteilungsgerechtigkeit und Wettbewerbsfähigkeit mit sich bringen. Ohne sie könnte jedoch die Lastverteilung ungerechter werden, was insbesondere für weniger privilegierte Regionen nachteilig sein könnte [[page86]] [[page97]].
+- Insgesamt sind lokale Signale entscheidend, um eine flexible, effiziente und sichere Stromversorgung zu gewährleisten. Fehlen diese Signale, so könnten die Netzausbaukosten sowie die Betriebskosten des Stromsystems erheblich steigen und die Versorgungssicherheit gefährdet werden.

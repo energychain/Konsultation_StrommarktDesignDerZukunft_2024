@@ -1,3 +1,5 @@
+public:: true
+
 - Beantwortung der Leitfragen auf Basis des WhitePapers ["Strommarktdesign der Zukunft -  Optionen für ein sicheres, bezahlbares und nachhaltiges Stromsystem"](https://www.bmwk.de/Redaktion/DE/Publikationen/Energie/20240801-strommarktdesign-der-zukunft.pdf?__blob=publicationFile&v=10)
 	- ### [[Leitfragen zu Kap. 3.1, Investitionsrahmen für erneuerbare]]
 	- ### [[Leitfragen zu Kap. 3.2, Investitionsrahmen für steuerbare Kapazitäten]]

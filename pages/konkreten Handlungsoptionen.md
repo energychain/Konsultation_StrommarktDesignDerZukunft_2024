@@ -1,0 +1,19 @@
+#### 1.   **Preisreaktion ermöglichen – Dynamische und innovative Tarifmodelle umsetzen**
+	- **Handlungsoptionen**:
+		- **Flächendeckende Einführung dynamischer Tarife**:
+			- Alle Energieversorger sollten verpflichtet werden, ab dem 1. Januar 2025 dynamische Tarife anzubieten. Diese Tarife spiegeln die Spotmarktpreise wider und ermöglichen es den Verbrauchern, von niedrigen Strompreisen zu profitieren [[page110]].
+		- **Förderung intelligenter Messsysteme**:
+			- Beschleunigte Einführung und positive Weiterentwicklung des "Gesetzes zum Neustart der Digitalisierung der Energiewende" (GNDEW), um die technischen Voraussetzungen für dynamische Tarife zu schaffen  [[page110]].
+- #### 2.   **Netzentgeltsystematik flexibilitätsfördernd anpassen**
+	- **Handlungsoptionen**:
+		- **Einführung zeitlich und regional differenzierter Netzentgelte**:
+			- Diese sollen dazu beitragen, dass Verbraucher Anreize erhalten, ihren Stromverbrauch zu Zeiten und an Orten mit niedrigen Netzkosten zu verschieben. Netzentgelte in Regionen und Zeiten hoher EE-Erzeugung können abgesenkt werden, um den lokalen Verbrauch zu fördern und Netzengpässe zu vermeiden [[page88]] [[page87]].
+		- **Regelmäßige Anpassung von Netzentgelten**:
+			- Einführung eines Mechanismus zur regelmäßigen Anpassung von Netzentgelten basierend auf den aktuellen Netzbedingungen, um Fehlanreize zu vermeiden und die Kosteneffizienz zu erhöhen [[page88]] [[page87]].
+- #### 3.   **Industrielle Flexibilität ermöglichen, individuelle Netzentgelte reformieren**
+	- **Handlungsoptionen**:
+		- **Reform der individuellen Netzentgelte**:
+			- Abschaffung oder Anpassung der individuellen Netzentgelte, die gegenwärtig oft gleichmäßigen Bandlastbezug belohnen, zugunsten von Modellen, die flexibel auf die Netzbedarfe reagieren  [[page110]].
+		- **Implementierung von Förderprogrammen für industrielle Flexibilität**:
+			- Schaffung von Anreizen für industrielle Verbraucher, in Flexibilitätstechnologien zu investieren und diese flexibel im Sinne des Stromsystems anzuwenden  [[page110]] [[page88]].
+- Diese Handlungsoptionen sind darauf ausgerichtet, Hemmnisse für die Flexibilisierung des Stromverbrauchs abzubauen und den Übergang zu einem klimaneutralen Stromsystem zu unterstützen. Die vorgeschlagenen Maßnahmen müssen in einem koordinierten Ansatz umgesetzt werden, um die Effizienz und die Wettbewerbsfähigkeit des Strommarkts der Zukunft zu gewährleisten  [[page101]] [[page65]].

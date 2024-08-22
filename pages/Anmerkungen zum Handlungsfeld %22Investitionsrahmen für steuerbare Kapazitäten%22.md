@@ -1,0 +1,14 @@
+- **Langfristige Investitionssicherheit und Planungssicherheit**
+	- Investitionen in steuerbare Kapazitäten erfordern Planungssicherheit über lange Zeiträume. Regelmäßige Überarbeitung und Anpassung der Rahmenbedingungen sind wichtig, um stabile und verlässliche Investitionsanreize zu schaffen. Dies umfasst auch die Berücksichtigung von sich ändernden technologischen und marktlichen Bedingungen [[page9]] [[page77]].
+- **Technologieoffenheit und Integration neuer Techniken**
+	- Die Investitionsrahmen sollten technologieoffen gestaltet sein, um die Integration neuer Technologien und flexibler Lasten zu fördern. Dies kann durch die Schaffung geeigneter regulatorischer Bedingungen und Anreizsysteme unterstützt werden, die Innovationen nicht nur zulassen, sondern aktiv fördern [[page67]] [[page55]].
+- **Flexibilität und Anpassungsfähigkeit**
+	- Ein flexibler Investitionsrahmen ist entscheidend, um auf sich ändernde Anforderungen der Energiewende, regulatorische Anpassungen und Marktentwicklungen reagieren zu können. Dies schließt die Möglichkeit ein, dezentrale Lösungen zu fördern und lokal spezifische Anforderungen zu berücksichtigen [[page68]] [[page65]].
+- **Kosten- und Risikoverteilung**
+	- Die Kosten und Risiken der Investitionen sollten fair verteilt werden. Mechanismen wie der KKM oder eine Kombination aus ZKM und KMS können hierzu beitragen, indem sie den Wettbewerb fördern und dadurch die Gesamtkosten senken [[page9]] [[page67]].
+- **Transparenz und Beteiligung der Marktakteure**
+	- Eine hohe Transparenz der Regelungen und aktive Einbindung der Marktakteure sind entscheidend für das Gelingen des Investitionsrahmens. Dies umfasst regelmäßigen Dialog zwischen Regulierungsbehörden, Marktteilnehmern und anderen Stakeholdern, um Bedürfnisse und Herausforderungen frühzeitig erkennen und adressieren zu können [[page76]] [[page67]].
+- **Schulung und Unterstützung der Marktakteure**
+	- Die Komplexität der neuen Mechanismen und Regelungen erfordert umfassende Schulungen und Unterstützung der Marktakteure. Dies kann durch Informationskampagnen, Workshops und Weiterbildungen geleistet werden, um eine breite Akzeptanz und erfolgreiche Umsetzung sicherzustellen [[page67]] [[page76]].
+- ### Fazit
+	- Ein gut durchdachter Investitionsrahmen für steuerbare Kapazitäten ist essenziell für die zuverlässige und nachhaltige Energieversorgung der Zukunft. Er muss langfristige Sicherheit bieten, technologieoffen und flexibel sein sowie eine faire Risiko- und Kostenteilung gewährleisten. Die Beteiligung und Schulung der Marktakteure sowie eine transparente und adaptive Regulierung sind entscheidende Elemente, um die Herausforderungen der Energiewende erfolgreich zu meistern [[page9]] [[page67]] [[page65]].
