@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### 1. Technische Hemmnisse
 	- **Beschreibung**:
 		- Mangel an intelligenten Messsystemen und automatisierten Steuerungseinrichtungen.

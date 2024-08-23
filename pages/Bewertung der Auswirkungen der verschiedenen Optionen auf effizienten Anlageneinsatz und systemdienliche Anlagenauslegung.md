@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Effizienter Anlageneinsatz und systemdienliche Auslegung
 	- Produktionsunabhängige Investitionsrahmen bieten deutliche Vorteile hinsichtlich Anreize für effizienten Anlagenbetrieb und systemdienliche Auslegung. Sie setzen stärkere und unmittelbarere Anreize im Vergleich zu produktionsabhängigen Modellen, besonders auch im Intraday-Markt, durch Vermeidung von Fehlanreizen und Verzicht auf Sonderregelungen für negative Preise [[page54]][[page50]][[page42]].
 - #### Erlösunsicherheiten durch Prognoseunsicherheiten von Stunden mit Null- oder Negativpreisen

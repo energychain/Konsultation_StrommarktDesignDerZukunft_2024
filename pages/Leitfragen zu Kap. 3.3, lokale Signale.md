@@ -1,3 +1,6 @@
+---
+public:: true
+---
 ## #Konsultation_3_1
 	- Welche Rolle sehen Sie für lokale Signale in der Zukunft?
 	- [[Die Rolle lokaler Signale in der Zukunft]]

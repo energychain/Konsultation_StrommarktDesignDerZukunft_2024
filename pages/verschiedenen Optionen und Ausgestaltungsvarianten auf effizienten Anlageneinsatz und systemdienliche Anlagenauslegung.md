@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - s.h.  [[Auswirkungen hätte eine Umsetzung der 4 Optionen auf die Terminvermarktung von Strom durch EE-Anlagen]]
 - ### 1. Gleitende Marktprämie mit Refinanzierungsbeitrag (zweiseitiger Differenzvertrag mit Marktwertkorridor)
 	- **Beschreibung**: Der Anlagenbetreiber erhält eine variable Vergütung pro tatsächlich eingespeiste Kilowattstunde, basierend auf einem festgelegten anzulegenden Wert und einem Referenzmarktpreis.

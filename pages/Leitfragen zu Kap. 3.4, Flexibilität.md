@@ -1,3 +1,6 @@
+---
+public:: true
+---
 ## #Konsultation_4_1
 	- background-color:: yellow
 	- Ist die Liste der Aktionsbereiche vollständig und wie bewerten Sie die einzelnen Aktionsbereiche?

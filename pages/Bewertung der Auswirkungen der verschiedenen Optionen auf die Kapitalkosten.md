@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Kapitalkostenunterschiede mit und ohne Marktwertkorridor
 	- Ein Investitionsrahmen ohne Marktwertkorridor bietet tendenziell eine höhere Sicherheit des Zahlungsstroms, was die Kapitalkosten senken kann. Anlagenbetreiber müssen sich nicht auf unsichere Markterlöse verlassen, was das Risiko reduziert und die geforderte Rendite der Kapitalgeber senkt. Im Gegensatz dazu erhöht ein Marktwertkorridor die Unsicherheit und kann zu höheren Kapitalkosten führen, da Kapitalgeber einen Risikoaufschlag verlangen [[page54]] [[page55]].
 - #### Einfluss von längeren Referenzperioden und anderen Bemessungsgrundlagen

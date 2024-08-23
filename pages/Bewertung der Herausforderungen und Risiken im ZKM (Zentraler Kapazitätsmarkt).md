@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Beitrag neuer Technologien und flexibler Lasten
 	- Die Integration neuer Technologien und insbesondere flexibler Lasten im ZKM stellt eine erhebliche Herausforderung dar. Dies liegt hauptsächlich daran, dass alle Teilnehmer durch eine zentrale Stelle vorab präqualifiziert werden müssen. Dieser Prozess der Präqualifikation kann für neue Technologien und kleinere Flexibilitäten wie E-Mobilität oder Wärmepumpen eine regulatorische und bürokratische Hürde darstellen. Neue und innovative Lösungen passen oft nicht ohne weiteres in die standardisierten Vorgaben und Abläufe des ZKM [[page50]] [[page77]].
 	  

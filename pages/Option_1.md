@@ -1,3 +1,6 @@
+---
+public:: true
+---
 # Gleitende Marktprämie mit Refinanzierungsbeitrag
 	- #### Grundlagen
 		- Option 1 basiert auf einer produktionsabhängigen Zahlungsstruktur und verwendet einen sogenannter gleitenden Marktprämie mit Refinanzierungsbeitrag. Hierbei erhält der Betreiber einer erneuerbaren Energieanlage eine variable Vergütung, die auf der tatsächlich eingespeisten Strommenge basiert [[page40]][[page38]].

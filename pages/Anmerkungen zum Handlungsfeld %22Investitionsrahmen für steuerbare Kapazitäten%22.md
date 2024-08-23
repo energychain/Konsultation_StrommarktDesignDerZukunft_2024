@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - **Langfristige Investitionssicherheit und Planungssicherheit**
 	- Investitionen in steuerbare Kapazitäten erfordern Planungssicherheit über lange Zeiträume. Regelmäßige Überarbeitung und Anpassung der Rahmenbedingungen sind wichtig, um stabile und verlässliche Investitionsanreize zu schaffen. Dies umfasst auch die Berücksichtigung von sich ändernden technologischen und marktlichen Bedingungen [[page9]] [[page77]].
 - **Technologieoffenheit und Integration neuer Techniken**

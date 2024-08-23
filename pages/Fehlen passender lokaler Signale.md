@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - Das Fehlen passender lokaler Signale im Strommarkt könnte erhebliche Gefahren mit sich bringen:
 - **Belastung der Netze und erhöhter Redispatch-Bedarf**:
 	- Ohne lokale Signale könnten Netzengpässe häufiger auftreten. Dies würde zu einem erhöhten Redispatch-Bedarf führen, was ineffizient und kostspielig ist [[page86]] [[page91]][[page88]].

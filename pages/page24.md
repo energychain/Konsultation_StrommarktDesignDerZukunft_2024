@@ -1,3 +1,6 @@
+---
+public:: true
+---
 ![./pages/page24.pdf](../assets/./pages/page24.pdf)
 
 

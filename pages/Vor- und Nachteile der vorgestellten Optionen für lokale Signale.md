@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### 1. Zeitlich/regional differenzierte Netzentgelte
 	- ##### Vorteile:
 		- **Netzentlastung und Einsparung bei Redispatch**:

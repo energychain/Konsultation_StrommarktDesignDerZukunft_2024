@@ -1,3 +1,6 @@
+---
+public:: true
+---
 ### 1. Gleitende Marktprämie mit Refinanzierungsbeitrag (zweiseitiger Differenzvertrag mit Marktwertkorridor)
 	- **Auswirkungen auf die Kapitalkosten**: Bei diesem Modell bleiben die Kapitalkosten hoch, da die Unsicherheit hinsichtlich der Erlöse aufgrund des Marktwertkorridors bestehen bleibt. Dies bedeutet, dass Kapitalgeber höhere Risikoaufschläge verlangen können, um die Unsicherheit zu kompensieren. Besonders breite Marktwertkorridore können die Kapitalkosten noch weiter erhöhen, da die Sicherheit des Zahlungsstroms geringer ist.
 - ### 2. Produktionsabhängiger zweiseitiger Differenzvertrag ohne Marktwertkorridor

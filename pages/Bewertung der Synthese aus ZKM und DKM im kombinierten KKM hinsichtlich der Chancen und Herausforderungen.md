@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Chancen
 	- Die Synthese aus dem Zentralen Kapazitätsmarkt (ZKM) und dem Dezentralen Kapazitätsmarkt (DKM) im Kombinierten Kapazitätsmarkt (KKM) kombiniert die Vorteile beider Ansätze, was zu mehreren positiven Effekten führt:
 	- **Investitionssicherheit**:

@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Anpassungsfähigkeit des Kapazitätsmechanismus
 	- Die Anpassungsfähigkeit des Kapazitätsmechanismus ist von großer Bedeutung, um effektiv auf sich schnell ändernde technologische und marktliche Entwicklungen zu reagieren. Ein Kapazitätsmechanismus, der flexibel und innovativ ist, kann besser auf die Unsicherheiten der zukünftigen Marktentwicklung und die dynamischen Anforderungen eines dekarbonisierten Stromsystems reagieren [[page78]] [[page59]].
 	  

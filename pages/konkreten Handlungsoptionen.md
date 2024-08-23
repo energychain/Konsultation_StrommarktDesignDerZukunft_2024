@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### 1.   **Preisreaktion ermöglichen – Dynamische und innovative Tarifmodelle umsetzen**
 	- **Handlungsoptionen**:
 		- **Flächendeckende Einführung dynamischer Tarife**:

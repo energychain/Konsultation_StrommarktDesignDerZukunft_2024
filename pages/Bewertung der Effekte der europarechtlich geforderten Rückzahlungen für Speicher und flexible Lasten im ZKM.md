@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Signifikanz der Rückzahlungen
 	- Rückzahlungsmechanismen oder „Claw-Back“-Vorgaben sind zentraler Bestandteil der europarechtlichen Anforderungen und betreffen alle Kapazitäten, die direkt oder indirekt aus staatlicher Förderung profitieren. Diese Mechanismen stellen sicher, dass bei unerwartet hohen Marktpreisen die übermäßigen Gewinne begrenzt und zurückgezahlt werden müssen. Solche Rückzahlungen können jedoch signifikante Effekte auf Speicher und flexible Lasten haben, insbesondere im zentralen Kapazitätsmarkt (ZKM) [[page27]] [[page26]].
 - #### Effekte auf Speicher

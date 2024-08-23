@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - Die Aktionsbereiche, die im Dokument aufgeführt sind, umfassen:
 	- **Preisreaktion ermöglichen – Weg frei machen für dynamische und innovative Tarifmodelle**
 	- **Netzentgeltsystematik flexibilitätsfördernd anpassen**

@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - Zusätzlich zu den bereits beschriebenen Punkten gibt es einige wesentliche Herausforderungen und Chancen im Handlungsfeld der lokalen Preissignale, die besonders beachtet werden sollten:
   background-color:: green
 - **Einfachheit in der Ausgestaltung**:

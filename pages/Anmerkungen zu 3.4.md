@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - Kapitel 3.4 des Dokuments beschreibt verschiedene Aktionsbereiche zur Förderung von Flexibilität im Stromsystem, wie die Einführung dynamischer Tarife, die Anpassung der Netzentgeltstruktur und die Unterstützung industrieller Flexibilität. Diese Ansätze sind wichtig, aber hier sind einige zusätzliche Aspekte, die ebenfalls adressiert werden sollten:
 - **Integration von Speichertechnologien**:
 	- Speichertechnologien wie Batteriespeicher und Wasserstoffspeicher sollten stärker integriert werden, da sie eine wesentliche Rolle bei der Speicherung überschüssigen Stroms aus erneuerbaren Quellen spielen. Dies würde die Flexibilität verbessern, indem es ermöglicht wird, Strom zu speichern, wenn er im Überfluss vorhanden ist, und ihn freizugeben, wenn die Nachfrage hoch ist.

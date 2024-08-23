@@ -1,3 +1,6 @@
+---
+public:: true
+---
 public:: true
 
 - ## #Konsultation_1_1
@@ -21,8 +24,6 @@ public:: true
 	  background-color:: green
 	-
 - ## #Konsultation_1_4
-	- Fragestellung
+	- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld (#Konsultation_1_1, #Konsultation_1_2, #Konsultation_1_3 )
 	  background-color:: yellow
-		- Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld (#Konsultation_1_1, #Konsultation_1_2, #Konsultation_1_3 )
-	- Positionierung
-	  background-color:: green
+	- background-color:: green

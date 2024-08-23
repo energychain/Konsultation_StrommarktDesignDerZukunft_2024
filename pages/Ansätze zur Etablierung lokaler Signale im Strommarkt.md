@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### 1. Zeitlich/Regional differenzierte Netzentgelte
 	- Dieser Ansatz setzt auf ökonomische Anreize durch variable Netzentgelte, die sich nach der Auslastung des Netzes und den spezifischen regionalen Gegebenheiten richten.
 		- **Vorteile:**

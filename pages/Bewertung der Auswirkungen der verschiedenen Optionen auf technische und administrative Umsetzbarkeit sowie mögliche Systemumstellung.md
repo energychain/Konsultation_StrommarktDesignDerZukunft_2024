@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Herausforderungen und Chancen einer Systemumstellung
 background-color:: green
 	- Die Systemumstellung auf produktionsunabhängige Modelle wird als technisch und administrativ anspruchsvoll betrachtet. Die zentrale Herausforderung liegt in der anlagenscharfen Messung sowie der Schätzung anhand von Wettermodellen, was erhebliche technische, administrative und Kostenhürden mit sich bringt. Es wird angenommen, dass eine kurzfristige Lösung aller offenen Fragen unwahrscheinlich ist. Bei unzureichender Vorbereitung und Kommunikation des neuen Instrumentes besteht ein signifikantes Risiko, dass Marktteilnehmer zunächst Investitionszurückhaltung üben [[page50]] [[page77]].

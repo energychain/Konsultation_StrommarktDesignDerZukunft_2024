@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Bedeutung lokaler Signale
 	- Mit dem steigenden Anteil erneuerbarer Energien und der zunehmenden Zahl flexibler Stromverbraucher wird die Bedeutung von Zeitpunkt und Ort der Stromerzeugung und des Stromverbrauchs immer entscheidender für eine effiziente Netzkoordination. Der Netzausbau und Redispatch alleine werden nicht ausreichen, um die Herausforderungen zu bewältigen, weshalb lokale Signale notwendig sein werden [[page97]] [[page85]].
 - #### Vorteile lokaler Signale

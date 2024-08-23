@@ -1,3 +1,6 @@
+---
+public:: true
+---
 #### Chancen
 background-color:: green
 	- **Investitionssicherheit und Flexibilität**:

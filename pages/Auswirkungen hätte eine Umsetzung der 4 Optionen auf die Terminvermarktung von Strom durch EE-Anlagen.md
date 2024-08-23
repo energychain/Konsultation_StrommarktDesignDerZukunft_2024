@@ -1,3 +1,6 @@
+---
+public:: true
+---
 ### 1. Gleitende Marktprämie mit Refinanzierungsbeitrag (zweiseitiger Differenzvertrag mit Marktwertkorridor)
 	- **Auswirkungen auf die Terminvermarktung**: Diese Option stärkt die Marktintegration von EE-Anlagen, indem sie den Anlagenbetreibern Anreize gibt, die kurzfristigen Marktsignale zu berücksichtigen und ihre Produktion entsprechend anzupassen. Dies erhöht die Flexibilität und den effizienten Einsatz der Anlagen. Die Einbeziehung eines Marktwertkorridors bedeutet jedoch, dass die künftigen Markterlöse teilweise immer noch unsicher bleiben können, was die Planbarkeit und die langfristige Absicherung der Preise erschwert.
 - ### 2. Produktionsabhängiger zweiseitiger Differenzvertrag ohne Marktwertkorridor

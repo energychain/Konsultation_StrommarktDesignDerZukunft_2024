@@ -1,3 +1,6 @@
+---
+public:: true
+---
 - Um lokale Preissignale möglichst einfach auszugestalten und gleichzeitig neue Komplexitäten und mögliche Umsetzungsschwierigkeiten zu minimieren, gibt es mehrere Ansätze:
 - **Zeitlich/Regional Differenzierte Netzentgelte**:
 	- **Einführung zeitlich differenzierter Netzentgelte**: Dies bedeutet, dass Netzentgelte in Zeiten hoher Einspeisung von erneuerbaren Energien (z.B. viel Wind oder Sonnenschein) temporär gesenkt werden. Dies würde die Strombezugskosten für Verbraucher in solchen Zeiten reduzieren und so kurzfristig den Stromverbrauch in diesen Perioden anreizen [[page88]] [[page47]].
