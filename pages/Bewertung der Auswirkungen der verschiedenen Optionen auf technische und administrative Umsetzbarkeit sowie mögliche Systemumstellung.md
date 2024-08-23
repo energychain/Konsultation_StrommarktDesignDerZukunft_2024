@@ -1,8 +1,8 @@
 ---
 public:: true
 ---
-#### Herausforderungen und Chancen einer Systemumstellung
-background-color:: green
+
+- #### Herausforderungen und Chancen einer Systemumstellung
 	- Die Systemumstellung auf produktionsunabhängige Modelle wird als technisch und administrativ anspruchsvoll betrachtet. Die zentrale Herausforderung liegt in der anlagenscharfen Messung sowie der Schätzung anhand von Wettermodellen, was erhebliche technische, administrative und Kostenhürden mit sich bringt. Es wird angenommen, dass eine kurzfristige Lösung aller offenen Fragen unwahrscheinlich ist. Bei unzureichender Vorbereitung und Kommunikation des neuen Instrumentes besteht ein signifikantes Risiko, dass Marktteilnehmer zunächst Investitionszurückhaltung üben [[page50]] [[page77]].
 - #### Umsetzbarkeit von Modellen mit produktionsunabhängigen Zahlungen auf Basis lokaler Windmessungen
 	- Die anlagenscharfe Messung der lokalen Wetterdaten mittels integrierter technischer Messeinrichtungen bietet Vorteile wie hohe Genauigkeit und geringe Abweichungsrisiken von der Referenzproduktion. Allerdings stellen die flächendeckende Installation, Standardisierung und die Sicherstellung der Transparenz und Integrität der Messungen signifikante Herausforderungen dar. Diese Aspekte könnten die Umsetzbarkeit und Akzeptanz solcher Modelle beeinträchtigen [[page49]].
