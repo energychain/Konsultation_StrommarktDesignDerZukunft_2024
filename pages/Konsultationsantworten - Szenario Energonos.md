@@ -5,6 +5,7 @@
 	- Verursachergerchete Wälzung von Allgemeinkosten
 -
 - ## Leitfragen zu Kap. 3.1, Investitionsrahmen für erneuerbare Energien
+  collapsed:: true
 	- **Teilen Sie die Einschätzung der Chancen und Herausforderungen der genannten Optionen?**
 		- Nein
 	- **Bitte begründen Sie Ihre Auswahl**
@@ -95,3 +96,12 @@
 				- Dieser Ansatz stellt sicher, dass Anlagenbetreiber die Risiken ihrer Produktionsprofile über Versicherungsmechanismen absichern und die Systemkosten nicht sozialisiert werden.
 		- ### Fazit
 			- Durch die Integration einer Einspeiseversicherung in den Investitionsrahmen können die Ziele eines stabilen, effizienten und kosteneffizienten Ausbaus von EE-Anlagen wesentlich besser erfüllt werden. Die Option 4 Variante hin zu einer vom Einspeiseprofil abhängigen Kapazitätszahlung optimiert die Systemdienlichkeit und verankert das Risiko bei den Verursachern, was zur langfristiger Sicherheit beiträgt.
+- ## Leitfragen zu Kap. 3.2, Investitionsrahmen für steuerbare Kapazitäten
+	- ** Wie schätzen Sie die Notwendigkeit der Anpassungs- und Anschlussfähigkeit des Kapazitätsmechanismus für künftige Entwicklungen ein?**
+	- ** Wie bewerten Sie im ZKM die Herausforderung, den Beitrag neuer Technologien und insbesondere flexibler Lasten angemessen zu berücksichtigen, sowie das Risiko einer Überdimensionierung?**
+	- ** Wie signifikant sind aus Ihrer Sicht die Effekte für Speicher und flexible Lasten durch die europarechtlich geforderten Rückzahlungen, die insbesondere im ZKM zum Tragen kommen?**
+	- **Wie bewerten Sie die Synthese aus ZKM und DKM im kombinierten KKM hinsichtlich der Chancen und Herausforderungen?**
+	- **Wäre aus Ihrer Sicht auch eine Kombination aus ZKM und KMS denkbar?**
+	- **Haben Sie darüber hinaus Anmerkungen zu diesem Handlungsfeld?**
+	-
+-
